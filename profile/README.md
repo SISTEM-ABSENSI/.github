@@ -81,22 +81,4 @@ Access the frontend for employee:
 - **Password**: `P3rt4m4xTurb0100%`
 
 ## User Registration
-To log in as a user, registration is required. During registration, the application automatically captures the device ID to bind the account to a specific device. This ensures security and prevents manipulation since the system uses device IDs instead of IMEI numbers.
-
-## Features
-1. **Super Admin Login**  
-   Access and manage system-wide settings using the provided super admin credentials.
-
-2. **User Registration and Device Binding**  
-   - Users must register to create an account.  
-   - Registration automatically binds the account to the user's device using the device ID.
-
-3. **Platform Access**  
-   - **Dashboard**: Manage attendance data, schedules, and employee details through the web application.  
-   - **Frontend**: Employees can mark attendance and manage schedules.
-
-## Notes
-- Ensure that the device used for registration is the one intended for system access, as the account is tied to the device ID.  
-- For any issues or support, contact the development team.
-
-Enjoy using the Employee Attendance System!
+To log in as a user, registration is required. During registration, the application automatically captures the device ID to bind the account to a specific device

@@ -77,8 +77,8 @@ Access the frontend for employee:
 <a href="https://sistem-absensi-demo.web.app/" target="_blank">https://sistem-absensi-demo.web.app</a>
 
 ## Login
-- **Username**: `superadmin`  
-- **Password**: `qwerty`
+- **Username**: `testuser`  
+- **Password**: `P3rt4m4xTurb0100%`
 
 ## User Registration
 To log in as a user, registration is required. During registration, the application automatically captures the device ID to bind the account to a specific device. This ensures security and prevents manipulation since the system uses device IDs instead of IMEI numbers.

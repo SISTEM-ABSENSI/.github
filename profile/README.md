@@ -1,13 +1,13 @@
 # Employee Attendance System
 
-An advanced Employee Attendance Management System using GPS technology for retail employees working at various store branches. This application enables employees to manage their work schedules and ensures attendance can only be marked at designated work locations. The system features multiple user roles, including Super Admin, Admin, Supplier, and SPG.
+An advanced Employee Attendance Management System using GPS technology for retail employees working at various store branches. This application enables employees to manage their work schedules and ensures attendance can only be marked at designated work locations. The system features multiple user roles, including Super Admin, Admin and User.
 
 ## Project Structure
 
 ### Frontend
 
 - **Framework**: React Native
-- **Purpose**: Provides mobile access for employees to manage work schedules and mark attendance at their respective branches using GPS validation.
+- **Purpose**: Provides access for employees to manage work schedules and mark attendance at their respective branches using GPS validation.
 
 ### Dashboard
 

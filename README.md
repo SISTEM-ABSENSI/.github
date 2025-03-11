@@ -4,17 +4,17 @@ An advanced Employee Attendance Management System using GPS technology for retai
 
 ## Project Structure
 
-### Mobile Application
+### Frontend
 
 - **Framework**: React Native
 - **Purpose**: Provides mobile access for employees to manage work schedules and mark attendance at their respective branches using GPS validation.
 
-### Frontend Dashboard
+### Dashboard
 
 - **Framework**: React.js with Material UI
 - **Purpose**: Provides a web interface for Super Admin, Admin, and Supplier roles to manage attendance data, schedules, and employee assignments.
 
-### Backend API
+### Backend
 
 - **Framework**: Express.js
 - **Language**: TypeScript
@@ -48,7 +48,7 @@ An advanced Employee Attendance Management System using GPS technology for retai
 
 ## Tech Stack
 
-### 1. Frontend Dashboard
+### 1. Frontend
 
 - **Framework**: React.js
 - **UI Library**: Material UI
@@ -73,7 +73,7 @@ Access the web dashboard:
 - **Username**: `superadmin`  
 - **Password**: `qwerty`
 
-Frontend:  
+Access the frontend for employee:  
 <a href="https://sistem-absensi-demo.web.app/" target="_blank">https://sistem-absensi-demo.web.app</a>
 
 ## Login

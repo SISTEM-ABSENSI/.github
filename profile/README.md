@@ -67,14 +67,14 @@ An advanced Employee Attendance Management System using GPS technology for retai
 
 ### Web Application
 Access the web dashboard:  
-<a href="https://sistem-absensi-dashboard.web.app" target="_blank">https://sistem-absensi-dashboard.web.app</a>
+[https://sistem-absensi-dashboard.web.app](https://sistem-absensi-dashboard.web.app)
 
 ## Login
 - **Username**: `superadmin`  
 - **Password**: `qwerty`
 
 Access the frontend for employee:  
-<a href="https://sistem-absensi-demo.web.app/" target="_blank">https://sistem-absensi-demo.web.app</a>
+[https://sistem-absensi-demo.web.app](https://sistem-absensi-demo.web.app
 
 ## Login
 - **Username**: `testuser`  

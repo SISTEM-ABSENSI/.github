@@ -74,7 +74,7 @@ Access the web dashboard:
 - **Password**: `qwerty`
 
 Access the frontend for employee:  
-[https://sistem-absensi-demo.web.app](https://sistem-absensi-demo.web.app
+[https://sistem-absensi-demo.web.app](https://sistem-absensi-demo.web.app)
 
 ## Login
 - **Username**: `testuser`  
